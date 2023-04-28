@@ -1,18 +1,17 @@
-## Getting Started
+# Proyecto basado en GIT
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este proyecto es realizado en Java para la implementación de GIT en la clase de Diseño de software, trata sobre un software de inventario de productos
 
-## Folder Structure
+## Pre-Requisitos
+* Java
+* Pruebas Unitarias
 
-The workspace contains two folders by default, where:
+## Construido con
+* Java
+* Git
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Herramientas
+* vscode
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## Autores
+Alvaro Rodríguez
